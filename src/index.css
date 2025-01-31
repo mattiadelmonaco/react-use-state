@@ -27,3 +27,36 @@ body {
   padding: 1.25rem;
   margin-bottom: 3.125rem;
 }
+
+/* MAIN */
+
+/* ACCORDION */
+
+.accordion {
+  padding: 1.25rem;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.accordion__top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #efefef;
+}
+
+.accordion__title {
+  font-size: 1.5rem;
+}
+
+.accordion__btn {
+  font-size: 1.5rem;
+  border: none;
+}
+
+.accordion__description {
+  font-size: 1.25rem;
+}
+
+.accordion__top--open {
+  background-color: #ffc008;
+}
