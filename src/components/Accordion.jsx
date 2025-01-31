@@ -1,4 +1,4 @@
-export default function Accordion(id, title, description) {
+export default function Accordion({ id, title, description }) {
   return (
     <div key={id} className="accordion">
       <div className="accordion__top">
