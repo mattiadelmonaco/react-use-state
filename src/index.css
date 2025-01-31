@@ -54,6 +54,8 @@ body {
   font-size: 1.875rem;
   border: none;
   cursor: pointer;
+  padding: 0.125rem;
+  background-color: transparent;
 }
 
 .accordion__description {
