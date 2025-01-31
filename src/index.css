@@ -1,0 +1,24 @@
+/* RESET */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* GENERAL */
+
+body {
+  background-color: #e5e5e5;
+  font-family: "Open Sans", serif;
+}
+
+/* HEADER */
+
+.title {
+  background-color: #a8a8a8;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  text-align: center;
+  padding: 1.25rem;
+  margin-bottom: 3.125rem;
+}
